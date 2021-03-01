@@ -1,6 +1,6 @@
-package FirstTest;
+package AplanaJavaProject;
 
-public class MainClass {
+public class AplanaJavaProject {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
