@@ -1,4 +1,9 @@
-# folder logs
 out/
 
 .idea/
+
+AplanaJavaProject.iml
+
+src/Test2
+
+src/AplanaJavaProject
